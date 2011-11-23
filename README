@@ -1,0 +1,3 @@
+- The folder cyberball-project-files contains all the files for Cyberball, including source code.
+- All the contents of "cyberball-project-files\bin" folder need to be deployed to the web server.
+- To run the application point the browser to http://yourservername/cyberballfolder/index.php
